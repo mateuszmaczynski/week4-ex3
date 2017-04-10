@@ -1,1 +1,1 @@
-Gra przeglądarkowa – twarde cegły (podzielenie plików application.ts na moduły, które można zawrzesz w plikach o nazwach odpowiadających ich zawartości).
+Browser game - hard bricks (split application.ts files into modules that you can include in files with names that match their contents)
